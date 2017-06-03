@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.capt {
+	background-color: #E5F1FB;
+	border: none;
+	font: normal 16px/1 Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.bg {
+	background-color:#C2E0F9;
+	border:none;
+	font:normal 16px/1 Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
